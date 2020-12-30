@@ -1,0 +1,52 @@
+
+Gulden Turgay
+Seattle, Washington 98116 ? (415) 769 9695 ? guldenturgay@outlook.com 
+linkedin.com/in/guldenturgay  ? github.com/guldenturgay ? gulden.me
+Fully Work Authorized ? No Visa Sponsorship Required
+PROFESSIONAL SUMMARY
+Data Scientist with Bachelor's degree in chemical engineering and strong knowledge of mathematics. Certified IBM Data Scientist with experience in data analysis focused on manipulating data sets from relational databases, data wrangling, storytelling with data visualization, statistical data analysis, and machine learning algorithms.
+
+SKILLS
+* 
+* Python - Pandas, Numpy, Matplotlib, Scipy, Scikit-learn, keras, tensorflow, nltk
+* SQL – SQLite, PostgreSQL
+* Tableau
+* Command line, bash, git
+* Probability/Statistics
+* Machine learning, NLP
+
+PROJECTS
+   Twitter Sentiment Analysis
+    Technologies used: pandas, NumPy, scikit-learn, seaborn, matplotlib, nltk
+Completed sentiment analysis using Random Forest Classifier for a US Airline Tweets data obtained from Kaggle, with 85% accuracy on predicting the negative tweets
+   Breast Cancer Diagnosis
+    Technologies used: pandas, SciPy, scikit-learn, seaborn, matplotlib, NumPy
+Applied the logistic regression model to a breast cancer diagnostic dataset and the model with adjusted threshold at 0.29 has 99% accuracy rate with 100% precision of true positives
+   Wine Quality Prediction
+    Technologies used: scikit-learn, SciPy, pandas, NumPy, matplotlib, seaborn
+Compared several classification models such as KNN, Logistic Regression, Decision Tree and Random Forest for classification accuracy of a wine quality dataset to predict the wine quality and best result obtained with Random Forest Classifier with SMOTE implementation with 0.89 ROC AUC score
+   Airbnb Data Analysis of Seattle
+    Technologies used: pandas, NumPy, matplotlib, folium, json, scikit-learn
+Obtained venues data in Seattle by using Foursquare API and clustered Seattle neighborhoods with K-means clustering algorithm based on the most common type of venue and visualized the findings to identify the correlation between Airbnb listing prices and venue types in any neighborhood
+   Diversity Visa Lottery Analysis
+    Technologies used: pandas, Tableau
+Acquired, cleaned and analyzed Diversity Visa Lottery statistics data in terms of the average number of applications and the chance of winning the lottery by country and visualized the findings as an interactive map with Tableau
+
+PROFESSIONAL EXPERIENCE
+Volunteer Data Scientist at NoSchoolViolence.org, Seattle, WA	09/2020 – Present
+Practicing various NLP methods to build a behavioral analytics tool that will help reducing school violence 
+Engineering Intern at Bak Ambalaj, Izmir, Turkey	08/2013 – 09/2013
+Monitored and analyzed the production data in Microsoft Excel in order to measure compliance with production standards, to ensure 100% capacity is being fulfilled
+QC Laboratory Intern at Biofarma Pharmaceutical,  Istanbul, Turkey	08/2012 - 09/2012
+Conducted chemical and physical laboratory tests to assist scientists in making analysis of materials
+Student Assistant at Istanbul Technical University, Istanbul, Turkey	11/2011 - 06/2012
+Compiled, sorted, and verified the accuracy of student survey data manually prior to entered into school databases at the end of each semester
+EDUCATION 
+Bachelor of Science in Chemical Engineering	2016
+Istanbul Technical University, Istanbul, Turkey
+Most prestigious engineering school in Turkey, with ABET accreditation
+PROFESSIONAL DEVELOPMENT
+IBM Data Science Professional Certificate / coursera.org, May 2020
+ADDITIONAL WORK EXPERIENCE
+Sales Associate at TJX Marshalls, Seattle, WA	08/2018 – 07/2020
+Greeted customers and provided outstanding customer service.
