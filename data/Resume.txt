@@ -1,8 +1,4 @@
 
-Gulden Turgay
-Seattle, Washington 98116 ? (415) 769 9695 ? guldenturgay@outlook.com 
-linkedin.com/in/guldenturgay  ? github.com/guldenturgay ? gulden.me
-Fully Work Authorized ? No Visa Sponsorship Required
 PROFESSIONAL SUMMARY
 Data Scientist with Bachelor's degree in chemical engineering and strong knowledge of mathematics. Certified IBM Data Scientist with experience in data analysis focused on manipulating data sets from relational databases, data wrangling, storytelling with data visualization, statistical data analysis, and machine learning algorithms.
 
@@ -32,21 +28,3 @@ Obtained venues data in Seattle by using Foursquare API and clustered Seattle ne
     Technologies used: pandas, Tableau
 Acquired, cleaned and analyzed Diversity Visa Lottery statistics data in terms of the average number of applications and the chance of winning the lottery by country and visualized the findings as an interactive map with Tableau
 
-PROFESSIONAL EXPERIENCE
-Volunteer Data Scientist at NoSchoolViolence.org, Seattle, WA	09/2020 – Present
-Practicing various NLP methods to build a behavioral analytics tool that will help reducing school violence 
-Engineering Intern at Bak Ambalaj, Izmir, Turkey	08/2013 – 09/2013
-Monitored and analyzed the production data in Microsoft Excel in order to measure compliance with production standards, to ensure 100% capacity is being fulfilled
-QC Laboratory Intern at Biofarma Pharmaceutical,  Istanbul, Turkey	08/2012 - 09/2012
-Conducted chemical and physical laboratory tests to assist scientists in making analysis of materials
-Student Assistant at Istanbul Technical University, Istanbul, Turkey	11/2011 - 06/2012
-Compiled, sorted, and verified the accuracy of student survey data manually prior to entered into school databases at the end of each semester
-EDUCATION 
-Bachelor of Science in Chemical Engineering	2016
-Istanbul Technical University, Istanbul, Turkey
-Most prestigious engineering school in Turkey, with ABET accreditation
-PROFESSIONAL DEVELOPMENT
-IBM Data Science Professional Certificate / coursera.org, May 2020
-ADDITIONAL WORK EXPERIENCE
-Sales Associate at TJX Marshalls, Seattle, WA	08/2018 – 07/2020
-Greeted customers and provided outstanding customer service.
